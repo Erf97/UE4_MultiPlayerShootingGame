@@ -1,7 +1,6 @@
 # UE4_MultyPlayerShootingGame
 
-Demo录像见：
-https://github.com/Erf97/UE4_MultiPlayerShootingGame/blob/main/Gameplay_p1.mp4
+Demo录像见Release
 
 (闪屏应该是录制的问题...)
 
